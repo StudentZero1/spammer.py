@@ -14,7 +14,9 @@ use something like **VsCode** and modify it by default the time is set to 00 and
 # Run
 **Windows:**
 Navigate to where you stores the file for exapmle:
-`cd documents`
+```
+cd documents
+```
 afther that its simple if you didnt change the name the command is:
 `Python spammer.py`
 Do note you need to be usind **cd** in the correct directory or it will not work 
