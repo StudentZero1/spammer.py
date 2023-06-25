@@ -12,7 +12,7 @@ in the file there are messages to understand how to modify the mesagge and time
 use something like **VsCode** and modify it by default the time is set to 00 and the day is set 1 that means today you can add more days if you wish too
 
 # Run
-**Windows**
+**Windows:**
 Navigate to where you stores the file for exapmle:
 `cd documents`
 afther that its simple if you didnt change the name the command is:
