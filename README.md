@@ -3,7 +3,7 @@ a simple spammer python program with time
 ## Installation
 youll need a libary called *pyautogui*
 
-`pip install pyautogui`
+```pip install pyautogui```
 
 Additionally, make sure you have a compatible version of Python installed on your system (Python 3.6 or higher is recommended).
 
