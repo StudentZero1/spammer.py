@@ -2,13 +2,13 @@ import pyautogui
 import datetime
 import time
 
-message = "This is a test"
-num_iterations = 10
+message = "Hello World"
+num_iterations = 10 #Replace with how many messages you would like to send
 
 # Set the desired start time
-start_hour = 19  # Replace with your desired start hour (in 24-hour format)
-start_minute = 45  # Replace with your desired start minute
-start_second = 5  # Replace with your desired start second
+start_hour = 00  # Replace with your desired start hour (in 24-hour format)
+start_minute = 00  # Replace with your desired start minute
+start_second = 00 # Replace with your desired start second
 
 # Get the current time
 current_time = datetime.datetime.now()
@@ -38,3 +38,4 @@ try:
     print("No errors found")
 except Exception as e:
     print(f"An error occurred: {str(e)}")
+# I take no responsability for your actions 
