@@ -2,9 +2,9 @@
 a simple spammer python program with time
 ## Installation
 youll need a libary called *pyautogui*
-
-```pip install pyautogui```
-
+```
+pip install pyautogui
+```
 Additionally, make sure you have a compatible version of Python installed on your system (Python 3.6 or higher is recommended).
 
 # Modify 
@@ -18,5 +18,7 @@ Navigate to where you stores the file for exapmle:
 cd documents
 ```
 afther that its simple if you didnt change the name the command is:
-`Python spammer.py`
+```
+Python spammer.py
+```
 Do note you need to be usind **cd** in the correct directory or it will not work 
